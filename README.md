@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yousif Darwesh
 
 🎯 Data Analyst | Power BI | SQL | Excel  
-📍 Based in Egypt 🇪🇬  
+📍 Based in Egypt
 
 ---
 
