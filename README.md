@@ -21,8 +21,14 @@ I focus on practical, business-oriented analysis with clean visuals and actionab
 - Data Cleaning & Transformation
 - Business & Sales Analysis
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,sql,python,git,github,azure" />
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img src="https://img.icons8.com/color/48/sql.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
 </p>
+
 ---
 
 ## 📊 My Projects
