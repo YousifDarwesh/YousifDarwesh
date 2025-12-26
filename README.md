@@ -14,15 +14,15 @@ I focus on practical, business-oriented analysis with clean visuals and actionab
 ---
 
 ## 🛠 Tools & Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,sql,python,git,github,azure" />
-</p>
+
 - Power BI (Dashboards, DAX, Data Modeling)
 - SQL Server
 - Excel (Advanced formulas, Pivot Tables)
 - Data Cleaning & Transformation
 - Business & Sales Analysis
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi,excel,sql,python,git,github,azure" />
+</p>
 ---
 
 ## 📊 My Projects
