@@ -2,7 +2,6 @@
 
 🎯 Data Analyst | Power BI | SQL | Excel  
 📍 Based in Egypt 🇪🇬  
-<img src="https://raw.githubusercontent.com/YousifDarwesh/YousifDarwesh/main/images/banner.png" />
 
 ---
 
@@ -15,9 +14,6 @@ I focus on practical, business-oriented analysis with clean visuals and actionab
 ---
 
 ## 🛠 Tools & Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,excel,sql,python,git,github" />
-</p>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=powerbi,excel,sql,python,git,github,azure" />
 </p>
@@ -49,6 +45,6 @@ Each project includes:
 ---
 
 ## 📬 Contact Me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- GitHub: https://github.com/YousifDarwesh
+- LinkedIn: https://www.linkedin.com/in/yousif-darwesh-23969b265/
+- Gmail: Yousifdarwesh4@gmail.com
 
